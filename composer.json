@@ -1,5 +1,5 @@
 {
-    "name": "progknife/yodlee-api",
+    "name": "bluesquirrel/yodlee-api",
     "description": "Yodlee API SDK for PHP",
     "license": "MIT",
     "support": {
@@ -7,8 +7,8 @@
     },
     "authors": [
         {
-            "name": "Karl Manuzon",
-            "email": "karl.manuzon@gmail.com"
+            "name": "Blue Squirrel",
+            "email": "hoang@hallandco.digital"
         }
     ],
     "require": {
